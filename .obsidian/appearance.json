@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Minimal",
+  "textFontFamily": "Cascadia Mono",
+  "interfaceFontFamily": "Cascadia Mono",
+  "enabledCssSnippets": [
+    "occult-terminal"
+  ]
+}

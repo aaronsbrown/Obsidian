@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "c7afbaecb4544e66",
+    "type": "split",
+    "children": [
+      {
+        "id": "916a2b24147b6460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18ee57d24fea01b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATLAS/The Fold.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Fold"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ca91e6e1696dc16",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf3c8e0130aebe0d",
+        "type": "tabs",
+        "dimension": 61.003861003861005,
+        "children": [
+          {
+            "id": "e153b74915377b8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f97104fed68db9c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c808888ed38a845f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4ab6378f37180e26",
+        "type": "tabs",
+        "dimension": 38.996138996138995,
+        "children": [
+          {
+            "id": "0a1d06d8bfc69341",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e990ca39013cedff",
+    "type": "split",
+    "children": [
+      {
+        "id": "09eab169e878264a",
+        "type": "tabs",
+        "dimension": 67.40823136818688,
+        "children": [
+          {
+            "id": "8ef219b266ffddf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ATLAS/The Fold.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Fold"
+            }
+          },
+          {
+            "id": "89849db03b358a1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ATLAS/The Fold.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Fold"
+            }
+          },
+          {
+            "id": "9709370b6a0b9070",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "56eb81f4087cf1ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cb.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of cb"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6e88a14145430074",
+        "type": "tabs",
+        "dimension": 32.59176863181313,
+        "children": [
+          {
+            "id": "7466c3f751d7ad51",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "18ee57d24fea01b9",
+  "lastOpenFiles": [
+    "ATLAS/Memory as Safeguard.md",
+    "ATLAS/The Loop.md",
+    "ATLAS/Boolean Theology.md",
+    "ATLAS/Clipping The Infinite.md",
+    "ATLAS/Metastability.md",
+    "ATLAS/Modular Mind.md",
+    "ATLAS/The Web With No Weaver.md",
+    "ATLAS/Waveform Ontology.md",
+    "ATLAS/Brutalist Interface.md",
+    "ATLAS/Infinite State Machine.md",
+    "ATLAS/Recursive Identity.md",
+    "ATLAS/Entropy of Attention.md",
+    "ATLAS/Garbage Collection.md",
+    "ATLAS/The Fold.md",
+    "ATLAS/Digital Sampling.md",
+    "ATLAS/Lossy Cognition.md",
+    "rhizome.md",
+    "EFFORTS/01_BITSTREAM_TAROT/Project Schedule.md",
+    "CALENDAR/2025-04-15.md",
+    "Untitled.canvas",
+    "CALENDAR/2025-04-14.md",
+    "ATLAS/Web With No Weaver.md",
+    "ATLAS/Subject Profile by Monday.md",
+    "ATLAS/Midjourney_Visual_Prompts.md",
+    "ATLAS/Chaldean Buffer.md",
+    "Symbolic Framework.md",
+    "EFFORTS/01_BITSTREAM_TAROT/Visual_Qualitites.md",
+    "x",
+    "EFFORTS/01_BITSTREAM_TAROT",
+    "EFFORTS",
+    "CALENDAR",
+    "+",
+    "ATLAS",
+    "cb.canvas",
+    "EFFORTS/01_BITSTREAM_TAROT/01_Deck/Minor_Arcana/XOR",
+    "EFFORTS/01_BITSTREAM_TAROT/01_Deck/Minor_Arcana/NOT",
+    "EFFORTS/01_BITSTREAM_TAROT/01_Deck/Minor_Arcana/AND",
+    "EFFORTS/01_BITSTREAM_TAROT/01_Deck/Minor_Arcana/OR"
+  ]
+}
